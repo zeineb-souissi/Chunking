@@ -1,4 +1,4 @@
-# 🧠 LangChain Chunking S## ✨ Features
+# 🧠 LangChain Chunking 
 
 - 📊 Interactive menu system and comparative analysis
 - 🔧 Customizable parameters for each method
